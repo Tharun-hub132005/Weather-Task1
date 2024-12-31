@@ -4,9 +4,6 @@
 * ID: CT08END
 * Domain: Full stack Web Development
 * Durations:dec 17 2024 to jan 17 2025
-# Weather App
-
-This is a simple Weather Application that allows users to get the current weather information for a specified city. The app fetches data from the OpenWeatherMap API and displays it on the web page.
 
 # Features
 
@@ -15,15 +12,15 @@ This is a simple Weather Application that allows users to get the current weathe
 
 # Technologies Used
 
- HTML
- CSS
- JavaScript (with jQuery)
- OpenWeatherMap API
+ **HTML**<br>
+ CSS<br>
+ JavaScript (with jQuery)<br>
+ OpenWeatherMap API<br>
 
 # Prerequisites
- Basic understanding of HTML, CSS, and JavaScript.
- A code editor like VS Code.
- Internet connection for fetching weather data from the API.
+ Basic understanding of HTML, CSS, and JavaScript.<br>
+ A code editor like VS Code.<br>
+ Internet connection for fetching weather data from the API.<br>
  
 # Usage
 
@@ -34,28 +31,13 @@ This is a simple Weather Application that allows users to get the current weathe
 
 # Files
 
-  index.html: The main HTML file that structures the web page.
-  style.css: The CSS file that styles the web page.
-  script.js: The JavaScript file that handles the fetching and displaying of weather data.
+  index.html: The main HTML file that structures the web page.<br>
+  style.css: The CSS file that styles the web page.<br>
+  script.js: The JavaScript file that handles the fetching and displaying of weather data.<br>
 
-# API Key
-
-The app uses# codtech-TASK-2
-* Name: Tharun kumar
-* Company: CODTECH IT SOLUTIONS
-* ID: CT08END
-* Domain:Full stack Web Development
-* Durations:dec 17 2024 to jan 17 2025
 # Weather App
 
 This is a simple Weather Application that allows users to get the current weather information for a specified city. The app fetches data from the OpenWeatherMap API and displays it on the web page.
-
-# Technologies Used
-
- HTML
- CSS
- JavaScript (with jQuery)
- OpenWeatherMap API
 
 # Prerequisites
  Basic understanding of HTML, CSS, and JavaScript.
